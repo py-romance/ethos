@@ -1,6 +1,6 @@
 
 
-> *🌊 ?*        
+> *🌊 Origins, Dynamic, Static*        
 > *❤️ Règle, “Uninterested”*    
 > *🔁 Mathema, Du Jeu*     
 > *🎭 Pathema , Grande (Recursion)*    
