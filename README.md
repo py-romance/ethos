@@ -1,10 +1,10 @@
 
 
-> *🌊 ?*
-> *❤️ Règle, “Uninterested”*
-> *🔁 Mathema, Du Jeu*
-> *🎭 Pathema , Grande (Recursion)*
-> *🤖 Illusion*
+> *🌊 ?*        
+> *❤️ Règle, “Uninterested”*    
+> *🔁 Mathema, Du Jeu*     
+> *🎭 Pathema , Grande (Recursion)*    
+> *🤖 Illusion*     
 
 
 # A
